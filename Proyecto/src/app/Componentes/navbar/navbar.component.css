@@ -1,0 +1,21 @@
+.square-icon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 60px;
+  }
+  
+  .square-icon img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .icon-label {
+    font-size: 12px; 
+  }
+  .active {
+    background-color: #69B9EC;
+  }  
+#navbarNav{
+  background-color: #009DE0;
+      }

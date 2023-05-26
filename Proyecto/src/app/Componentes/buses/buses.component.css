@@ -1,0 +1,17 @@
+.table-smaller td,
+.table-smaller th {
+  font-size: 14px; /* Ajusta el tamaño de la fuente según tus preferencias */
+}
+
+.code-column {
+    white-space: nowrap;
+  }
+  .centered {
+    text-align: center;    display: flex;
+    justify-content: center;
+  }
+  td, th {
+    text-align: center; /* Alinea el contenido al centro horizontalmente */
+    vertical-align: middle; /* Alinea el contenido al centro verticalmente */
+    padding: 10px; /* Añade un espacio interno para mayor legibilidad */
+  }
